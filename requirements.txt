@@ -1,0 +1,13 @@
+pandas
+milvus==2.2.8
+pymilvus==2.2.8
+gradio
+transformers
+accelerate
+pytorch
+huggingface_hub
+transformers
+langchain==0.0.191
+llama-cpp-python==0.1.66
+InstructorEmbedding
+sentence-transformers
