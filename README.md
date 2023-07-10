@@ -7,6 +7,8 @@ You can ask questions to your private txt documents without an internet connecti
 
 Note: This project is using a quantized LLM model which desined to run on cpu only, therefore the perforamnce may not be upto SOTA llm (falcon or simialr) model and speed will be a bit slow based on you cpu conpute availability.
 
+#### Approach
+![image description](screenshots/approach.png)
 
 #### Built with 
 - [LangChain](https://docs.langchain.com/docs/) 
