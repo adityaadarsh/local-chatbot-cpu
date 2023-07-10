@@ -1,11 +1,11 @@
 
 # Local Chatbot (CPU)
 
-The project aims to run a LLM based question answering chatbot on enterprice/private data using CPU only.
+The project aims to run a LLM based question answering chatbot on enterprise/private data using CPU only.
 
 You can ask questions to your private txt documents without an internet connection, using opensource LLM.
 
-Note: This project is using a quantized LLM model which desined to run on cpu only, therefore the perforamnce may not be upto SOTA llm (falcon or simialr) model and speed will be a bit slow based on you cpu conpute availability.
+Note: This project is using a quantized LLM model which designed to run on cpu only, therefore the performance may not be upto SOTA llm (falcon or similar) model and speed will be a bit slow based on you cpu compute availability.
 
 #### Approach
 ![image description](screenshots/approach.png)
@@ -68,7 +68,7 @@ Screenshot
 ### W&B Experiment Logs
 ![image description](screenshots/wandb-run.png)
 
-Perforamance Evaluation 
+Performance Evaluation 
 ---
 * Using weights and bias to keep track for all the prompts results and manually checking the output’s performance
 * Using BertScore as a performance metric
