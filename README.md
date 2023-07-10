@@ -70,7 +70,8 @@ Screenshot
 
 Perforamance Evaluation 
 ---
-Todo
+* Using weights and bias to keep track for all the prompts results and manually checking the output’s performance
+* Using BertScore as a performance metric
 
 
 ---
