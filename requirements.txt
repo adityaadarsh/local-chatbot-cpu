@@ -11,3 +11,5 @@ langchain==0.0.191
 llama-cpp-python==0.1.66
 InstructorEmbedding
 sentence-transformers
+bert_score
+evaluate
